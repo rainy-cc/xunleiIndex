@@ -2,4 +2,4 @@
 
 - [x] html
 - [x] css
-- [] js
+- [ ] js
